@@ -2,4 +2,4 @@ Leader : Dany Pradipta, S.T.
 Sub Dept Head : Rusdi Mulyono & Hasep Rahmadi
 Staff : Sugiarno, Yuherto, Muntiri, Supriyono, Kuswanto
 
-with ssh
+with ssh okey
